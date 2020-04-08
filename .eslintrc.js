@@ -5,6 +5,7 @@ module.exports = {
   },
   extends: [
     'airbnb-typescript/base',
+    'plugin:jest/recommended',
     'plugin:import/errors',
     'plugin:import/warnings',
     'plugin:import/typescript',
